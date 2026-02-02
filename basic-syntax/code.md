@@ -12,3 +12,12 @@ Here is an example for code that contains backticks: ``This code contains `code`
 
 ## Code blocks
 
+For code blocks, use three backticks ` ``` ` and indent every line by at least one tab:
+
+```html
+<html>
+  <body>
+    <p>Hello, world!</p>
+  </body>
+</html>
+```
