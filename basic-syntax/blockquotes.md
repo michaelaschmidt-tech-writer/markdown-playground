@@ -17,7 +17,7 @@ Create blockquotes with line breaks by entering `>` in front of a line, `<br>` a
 > Like this. This is a line with line break at the end.<br>
 > And here is the new line.
 
-This is very similar as "normal" paragraphs and lines, see [Paragraphs and line breaks](basic-syntax/paragraphs-and-line-breaks.md).
+This is very similar as "normal" paragraphs and lines, see [Paragraphs and line breaks](paragraphs-and-line-breaks.md).
 
 ## Nested blockquotes
 
@@ -41,8 +41,8 @@ Create nested blockquotes by entering `>` for the main blockquote as usual, and 
 Other formatting elements can be used in blockquotes. Not all but some, it seems to be trial and error...
 
 You can use for example:
-- Inline formatting bold and italic. See [In-line formatting](basic-syntax\in-line-formatting.md).
-- Lists [Lists](basic-syntax\lists.md).
+- Inline formatting bold and italic. See [In-line formatting](in-line-formatting.md).
+- Lists [Lists](lists.md).
 
 And it looks like this:
 > This is a blockquote.<br>
