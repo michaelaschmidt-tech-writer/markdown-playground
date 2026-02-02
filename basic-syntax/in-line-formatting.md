@@ -41,3 +41,7 @@ But if you want to format only certain characters inside of a word as both bold 
 For example:<br>
 - Nowherewereallywanttosuperemphasizeas***bothboldanditalic***inthemiddle, written as: `Nowherewereallywanttosuperemphasizeas***bothboldanditalic***inthemiddle`<br>
 - Nowherewereallywanttosuperemphasizeas___bothboldanditalic___inthemiddle, written as: `Nowherewereallywanttosuperemphasizeas___bothboldanditalic___inthemiddle` (not working)
+
+## Formatting of other items
+
+For info on how to format links, see [links](links.md) .
