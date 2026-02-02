@@ -21,4 +21,42 @@ This is very similar as "normal" paragraphs and lines, see [Paragraphs and line 
 
 ## Nested blockquotes
 
+Create nested blockquotes by entering `>` for the main blockquote as usual, and then `>>` for the nested blockquote and so on.
+
+> This is the main blockquote.
+>> And this is the nested blockquote.
+>>> How far can we go?
+>>>> Forth level?
+>>>>> Fifth?
+>>>>>> When will this end?
+>>>>>>> Is it more than heading levels?
+>>>>>>>> Yes it is, in the eighth level already!
+>>>>>>>>> Ninth!
+>>>>>>>>>> Tenth!
+>>>>>>>>>>> Okay, this makes no sense anymore...
+>>>>>>>>>>>> Yeah, this was fun but I got tired and asked ChatGPT: levels of blockquotes are unlimited...
+
 ## Blockquotes and other elements
+
+Other formatting elements can be used in blockquotes. Not all but some, it seems to be trial and error...
+
+You can use for example:
+- Inline formatting bold and italic. See [In-line formatting](basic-syntax\in-line-formatting.md).
+- Lists [Lists](basic-syntax\lists.md).
+
+And it looks like this:
+> This is a blockquote.<br>
+> It has a list containing these items:
+> - Item 1
+> - Item 2
+> 
+> Also it has **bold** text and *italic* text.
+
+
+
+
+
+
+
+
+
