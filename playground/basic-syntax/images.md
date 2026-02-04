@@ -4,4 +4,4 @@ You can either refernce to an image via a URL or you can enter an image into you
 
 To enter an image into a file, 
 
-
+![Lechschleife in Bavaria](/images/lechschleife.jpg)
