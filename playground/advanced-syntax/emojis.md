@@ -2,7 +2,7 @@
 
 You can simply copy and paste an emoji from another source, such as [Emojipedia](https://emojipedia.org), or you can use the emoji shortcodes by typing `:` and the shortcode.
 
-**For example:**
+**For example:**<br>
 `:whale`<br>
 Displays as: 🐳
 
