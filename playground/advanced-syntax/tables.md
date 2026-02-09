@@ -18,23 +18,44 @@ The text in Markdown does not have to be aligned, so you can type the above tabl
 `|Second line with content|Content|`<br>
 `||Content next to empty cell|`
 
-
-
-
 ## Tables with html
 
+You can create tables also with html.
+
 <table>
-<thead>
-<tr>
-<th>foo</th>
-<th>bar</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>baz</td>
-<td>bim</td>
-</tr>
-</tbody>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td>Content line 1</td>
+    <td>Content line 1</td>
+    <td>Content line 1</td>
+  </tr>
+  <tr>
+    <td>Content line 2</td>
+    <td>Content line 2</td>
+    <td>Content line 2</td>
+  </tr>
 </table>
 
+Use the following html tags and extend if necessary:
+
+``<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td>Content line 1</td>
+    <td>Content line 1</td>
+    <td>Content line 1</td>
+  </tr>
+  <tr>
+    <td>Content line 2</td>
+    <td>Content line 2</td>
+    <td>Content line 2</td>
+  </tr>
+</table>``
