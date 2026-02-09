@@ -42,7 +42,7 @@ You can create tables also with html.
 
 Use the following html tags and extend if necessary:
 
-``<table>
+```<table>
   <tr>
     <th>Header 1</th>
     <th>Header 2</th>
@@ -58,4 +58,4 @@ Use the following html tags and extend if necessary:
     <td>Content line 2</td>
     <td>Content line 2</td>
   </tr>
-</table>``
+</table>
